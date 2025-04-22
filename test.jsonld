@@ -1,4 +1,5 @@
-```json{
+```json
+{
   "@context": {
     "kb": "http://example.org/kb/",
     "uco-core": "https://ontology.unifiedcyberontology.org/uco/core/",
